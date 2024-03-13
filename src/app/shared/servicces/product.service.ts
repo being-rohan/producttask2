@@ -9,19 +9,19 @@ export class ProductService {
 
   userArr: Users[] = [
     {
-      username: "rohan panchal",
+      username: "Rohan panchal",
       userdetails: "iam full stack Developer",
       userid: "123",
       userStstus: userstat.lookingjob
     },
     {
-      username: "nikhil singe",
+      username: "Nikhil singe",
       userdetails: "iam full stack Developer",
       userid: "1233",
       userStstus: userstat.Inprocess
     },
     {
-      username: "adi waghmare",
+      username: "Adi waghmare",
       userdetails: "iam full stack Developer",
       userid: "12344",
       userStstus: userstat.placed
